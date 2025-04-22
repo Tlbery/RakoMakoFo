@@ -60,7 +60,7 @@
 ```
 #include <stdio.h>
 int main() {
-   printf("Hello, World!");
+   printf("Я собственный Бог! Мой Бог перед тобой, а ты своего показать сможешь?");
    return 0;
 }
 ```
